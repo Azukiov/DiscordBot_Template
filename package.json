@@ -1,0 +1,17 @@
+{
+  "name": "maskfr-bot",
+  "version": "1.0.0",
+  "description": "MaskFR Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azukiov",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}
