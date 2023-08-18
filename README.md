@@ -1,5 +1,3 @@
-[retour](https://github.com/Azukiov/PurpleBot)  -  [FR](README-fr.md) | [EN](README.md)
-
 # Discord Bot Template
 
 This is a template to make a Discord bot with the [discord.js](https://discord.js.org) library.
