@@ -24,10 +24,7 @@ or download the latest release [here](https://github.com/Azukiov/DiscordBot_Temp
 ```bash
 npm install
 ```
-or start 
-```bash
-installer.bat
-```
+or start `installer.bat`
 
 
 3. Rename the file ```.env.example``` to ```.env``` and complete it with your information
@@ -40,10 +37,7 @@ TOKEN=your_token
 ```bash
 npm start
 ```
-or start 
-```bash
-start.bat
-```
+or start `start.bat`
 
 
 ## Author
